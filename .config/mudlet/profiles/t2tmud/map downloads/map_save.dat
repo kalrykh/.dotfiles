@@ -1,0 +1,5 @@
+return {{[ [[ignore_patterns]] ] = {2},[ [[prompt_pattern]] ] = {3},[ [[recall]] ] = {4},},
+{[1] = [[You open the down door]],},
+{[ [[]] ] = [[^[Hh][Pp]:.*>]],[ [[Hovis]] ] = [[^%(HP:%d+ EP:%d+%): $]],},
+{},
+}
