@@ -23,6 +23,11 @@
 	"hyprland/workspaces",
 	],
 
+"modules-center": [
+	"clock",
+	],
+
+
 "modules-right": [
 	"custom/swaync",
 	"tray",
@@ -35,7 +40,5 @@
 	"backlight",
 	"custom/separator#dot-line",
 	"pulseaudio",
-	"custom/separator#dot-line",
-	"clock",
 	],
 }
