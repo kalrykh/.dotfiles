@@ -1,0 +1,3 @@
+return {{[ [[minimized]] ] = false,[ [[lockStyle]] ] = [[standard]],[ [[slot]] ] = {2},[ [[origh]] ] = [[200px]],[ [[hidden]] ] = false,[ [[attached]] ] = false,[ [[width]] ] = [[32.61516%]],[ [[y]] ] = [[0.00000%]],[ [[x]] ] = [[67.38484%]],[ [[windowname]] ] = [[main]],[ [[auto_hidden]] ] = false,[ [[locked]] ] = true,[ [[padding]] ] = 10,[ [[attachedMargin]] ] = 5,[ [[height]] ] = [[53.21690%]],},
+{},
+}

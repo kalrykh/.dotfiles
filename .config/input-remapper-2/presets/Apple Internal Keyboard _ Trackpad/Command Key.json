@@ -1,0 +1,36 @@
+[
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 125,
+                "origin_hash": "e84c902dd33f3c745cd204d0f8e9e71d"
+            },
+            {
+                "type": 1,
+                "code": 46,
+                "origin_hash": "e84c902dd33f3c745cd204d0f8e9e71d"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "Control_L+Insert",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 125,
+                "origin_hash": "e84c902dd33f3c745cd204d0f8e9e71d"
+            },
+            {
+                "type": 1,
+                "code": 47,
+                "origin_hash": "e84c902dd33f3c745cd204d0f8e9e71d"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "Shift_L+Insert",
+        "mapping_type": "key_macro"
+    }
+]
