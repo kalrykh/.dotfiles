@@ -1,0 +1,2 @@
+return {{[1] = [[shoshana]],[15] = [[jukka]],[30] = [[melethor]],[31] = [[rukuk]],[16] = [[egypt]],[32] = [[krait]],[17] = [[hoir]],[9] = [[alaran]],[18] = [[hutor]],[10] = [[ainsley]],[2] = [[khikril]],[21] = [[cori]],[11] = [[nyssa]],[22] = [[aront]],[3] = [[trevelyan]],[6] = [[alkath]],[12] = [[noldus]],[24] = [[garavion]],[33] = [[byron]],[25] = [[thumlin]],[13] = [[gleam]],[27] = [[keashqa]],[23] = [[ryuk]],[7] = [[hujaghur]],[14] = [[arnt]],[28] = [[zelindo]],[34] = [[mekhennen]],[29] = [[baern]],[35] = [[reaper]],},
+}

@@ -1,0 +1,3 @@
+return {{[ [[packableHealingString]] ] = [[do ]],[ [[equipString]] ] = [[do ]],[ [[packableString]] ] = [[do get silver flask from cloak, open flask, 2drink flask, close flask, put flask in cloak, ]],[ [[handheldString]] ] = [[do ]],[ [[bonusString]] ] = [[do ]],[ [[boostingString]] ] = [[do ]],[ [[Weapons]] ] = {2},[ [[handHealingString]] ] = [[do drink cloudy vial, drop empty vial, ]],[ [[darkString]] ] = [[do ]],},
+{[1] = [[A double-bladed staff]],},
+}

@@ -1,0 +1,19 @@
+{
+	"color_scheme": "Packages/Theme - Vim Blackboard/VimBlackboard.tmtheme",
+	"theme": "Default Dark.sublime-theme",
+	"dark_color_scheme": "Monokai.sublime-color-scheme",
+	"light_color_scheme": "Celeste.sublime-color-scheme",
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"auto_complete": false,
+	"auto_match_enabled": false,
+	"gpu_window_buffer": false,
+	"hardware_acceleration": "none",
+	"tab_size": 4,
+	"font_size": 13,
+	"translate_tabs_to_spaces": true,
+//	"rulers": [64,75],
+	"index_files": true,
+}
